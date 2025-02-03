@@ -35,14 +35,16 @@ Este projeto é uma aplicação simples em JavaScript que permite adicionar nome
 
 **📄 Como Utilizar**
 
+1. Acesse o Deploy do arquivo.
+    
 
-1. Digite o nome dos amigos no campo de entrada e clique em "Adicionar Amigo".
+2. Digite o nome dos amigos no campo de entrada e clique em "Adicionar Amigo".
 
 
-2. Clique no botão "Sortear Amigo" para ver o resultado.
+3. Clique no botão "Sortear Amigo" para ver o resultado.
 
 
-3. Os nomes sorteados não serão repetidos.
+4. Os nomes sorteados não serão repetidos.
 
 
 
